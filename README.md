@@ -22,8 +22,8 @@ I am very much interested in pursuing a successful career in software industry. 
 
 
 <p align="center">
+	<a href="https://kazi-rakib.github.io"><img src="https://github.com/kazi-rakib/kazi-rakib.github.io/blob/master/img/website.png" alt="MY WEBSITE"></a>
 	<a href="mailto:kmrakib168@gmail.com"><img src="https://github.com/kazi-rakib/kazi-rakib.github.io/blob/master/img/social-google.png" alt="kmrakib168@gmail.com"></a>
 	<a href="https://twitter.com/KaziRakibH"><img src="https://github.com/kazi-rakib/kazi-rakib.github.io/blob/master/img/social-twitter.png" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/kazi-rakib"><img src="https://github.com/kazi-rakib/kazi-rakib.github.io/blob/master/img/LinkedIn.svg" alt="LinkedIn"></a>
-	<a href="https://kazi-rakib.github.io"><img src="https://github.com/kazi-rakib/kazi-rakib.github.io/blob/master/img/website.png" alt="MY WEBSITE"></a>
 </p>
