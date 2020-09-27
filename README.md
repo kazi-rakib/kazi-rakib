@@ -30,5 +30,5 @@ I am very much interested in pursuing a successful career in software industry. 
 
 
 <p style="font-size:8px;">
-	<a href="https://icons8.com/">icons are from icon8</a>
+	icons are from <a href="https://icons8.com/">icon8</a>
 </p>
