@@ -28,6 +28,11 @@ I am very much interested in pursuing a successful career in software industry. 
 	<a href="https://www.linkedin.com/in/kazi-rakib"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
 </p>
 
+#### Favourite Quote(s): 
+<p align="center">
+	I have no special talents. I am only passionately curious.
+	- <strong>Albert Einstein</strong>
+</p>
 
 <p style="font-size:8px;">
 	icons are from <a href="https://icons8.com/">icon8</a>
