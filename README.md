@@ -21,9 +21,10 @@ I am very much interested in pursuing a successful career in software industry. 
 
 ### Some of my Creations(Highlights) :sparkles: :
 - [My Portfolio](https://kazi-rakib.github.io/)
+- [FreeCodeCamp Profile](https://www.freecodecamp.org/kazi-rakib)
 - [Tribute to Prof. Dr. Jamal Nazrul Islam](https://kazi-rakib.github.io/FreeCodeCamp/rwd/tribute/jnislam/index.html)
 - [Photo Gallary of my beloved Campus!](https://kazi-rakib.github.io/theFunProject/)
-- [FCC Projects(NOT Completed yet :( ](https://kazi-rakib.github.io/FreeCodeCamp/)
+- [FCC Projects (NOT Completed yet)](https://kazi-rakib.github.io/FreeCodeCamp/)
 
 <p align="center">
 	<a href="https://kazi-rakib.github.io"><img src="https://img.icons8.com/color/48/000000/github-2.png" alt="MY WEBSITE"></a>
