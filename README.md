@@ -1,7 +1,6 @@
 <!--
 ### Hi there 👋
 
-
 **kazi-rakib/kazi-rakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,8 +17,13 @@ Here are some ideas to get you started:
 
 
 ## Hi there! 👋 ✨
-I am very much interested in pursuing a successful career in software industry. Currently I am pursuing BS in Physics. Though I am not a CSE major, I engage myself in learning new technology regarding software industry whenever I can manage time. Besides academic study, I love to explore vast knowledge in programming, software development and computer engineering. As soon as my bachelor programme ends, I want to start a promising career in software industry.
+I am very much interested in pursuing a successful career in software industry. Currently I am pursuing BS in Physics. Though I am not a CSE major, I engage myself in learning new technology regarding software industry. As soon as my bachelor programme ends, I want to start a promising career in software industry.
 
+### Some of my Creations(Highlights) :sparkles: :
+- [My Portfolio](https://kazi-rakib.github.io/)
+- [Tribute to Prof. Dr. Jamal Nazrul Islam](https://kazi-rakib.github.io/FreeCodeCamp/rwd/tribute/jnislam/index.html)
+- [Photo Gallary of my beloved Campus!](https://kazi-rakib.github.io/theFunProject/)
+- [FCC Projects(NOT Completed yet :( ](https://kazi-rakib.github.io/FreeCodeCamp/)
 
 <p align="center">
 	<a href="https://kazi-rakib.github.io"><img src="https://img.icons8.com/color/48/000000/github-2.png" alt="MY WEBSITE"></a>
