@@ -30,7 +30,7 @@ I am very much interested in pursuing a successful career in software industry. 
 	<a href="https://kazi-rakib.github.io"><img src="https://img.icons8.com/color/48/000000/github-2.png" alt="MY WEBSITE"></a>
 	<a href="mailto:kmrakib168@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="kmrakib168@gmail.com" /></a>
 	<a href="https://twitter.com/KaziRakibH"><img src="https://img.icons8.com/color/48/000000/twitter.png" /></a>
-	<a href="https://www.linkedin.com/in/kazi-rakib"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
+	<a href="https://www.linkedin.com/in/rakib2hasan"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
 </p>
 
 #### Favourite Quote(s): 
